@@ -31,3 +31,12 @@ p   {
     border-style: solid;
     padding: 100px;
 }
+
+/* 
+    Margin: Empty space around my element
+    Border: a border/stroke around my element
+    Padding: Empty space WITH background around my element
+
+    ALL of these ADD top of the width and height!
+    
+*/
