@@ -27,9 +27,12 @@ p   {
 
 .box    {
     background-image: url(images/pasta.jpg);
+    background-size: cover;
+    background-position: center;
     width: 300px;
     margin: 100px;
     border: 5px;
+    padding: 300px;
     border-color: red;
     border-style: solid;
     padding: 100px;
